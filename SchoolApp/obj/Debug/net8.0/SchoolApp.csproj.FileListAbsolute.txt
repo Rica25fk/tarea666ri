@@ -1,0 +1,7 @@
+C:\programacion22\nuevo66\SchoolApp\SchoolApp\obj\Debug\net8.0\SchoolApp.csproj.AssemblyReference.cache
+C:\programacion22\nuevo66\SchoolApp\SchoolApp\obj\Debug\net8.0\SchoolApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacion22\nuevo66\SchoolApp\SchoolApp\obj\Debug\net8.0\SchoolApp.AssemblyInfoInputs.cache
+C:\programacion22\nuevo66\SchoolApp\SchoolApp\obj\Debug\net8.0\SchoolApp.AssemblyInfo.cs
+C:\programacion22\nuevo66\SchoolApp\SchoolApp\obj\Debug\net8.0\SchoolApp.csproj.CoreCompileInputs.cache
+C:\programacion22\nuevo66\SchoolApp\SchoolApp\obj\Debug\net8.0\SchoolApp.MvcApplicationPartsAssemblyInfo.cs
+C:\programacion22\nuevo66\SchoolApp\SchoolApp\obj\Debug\net8.0\SchoolApp.MvcApplicationPartsAssemblyInfo.cache
